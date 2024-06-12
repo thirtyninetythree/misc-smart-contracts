@@ -1,2 +1,2 @@
 # misc-smart-contracts
-some miscellaneous smart contracts that do different things
+Some miscellaneous smart contracts that do different things as a challenge
